@@ -1,5 +1,5 @@
 
-  katana
+  Katana Linux
   ==
 
 ![logo](readme-assets/katanaLogo-Colored.png)
