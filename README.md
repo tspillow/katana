@@ -5,7 +5,7 @@
 ![logo](readme-assets/katanaLogo-Colored.png)
 
 ## What am i looking at?
-Katana Linux is a CRUX-based Linux distribution that adds modern featuressuch as a declarative system, custom kernel, custom repositores and more.
+Katana Linux is a CRUX-based Linux distribution that adds modern features such as a declarative system, custom kernel, custom repositores and more.
 
 ## Features:
 * Performance tweaks: ananicy-cpp, BORE scheduler, Zen kernel, all in one.
