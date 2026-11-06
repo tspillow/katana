@@ -6,6 +6,10 @@
 
 ###### Katana Linux is an arch-based Linux distribution that adds a declarative system and more.
 
+##### for simple people:
+
+###### declarative arch
+
 ## Features
 ### Kissaki
 **The official declarative system for Katana Linux.**
